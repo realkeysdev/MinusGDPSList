@@ -68,10 +68,10 @@ const json = `
         }
     },
     "settings": {
-        "discordlink": "https://discord.gg/invitelink",
+        "discordlink": "https://discord.gg/BChVA6Gmft",
         "submits": {
-            "record": "https://forms.gle/link",
-            "level": "https://forms.gle/link"
+            "record": "https://forms.gle/YJ7xjvwXhf87n39P9",
+            "level": "https://forms.gle/YJ7xjvwXhf87n39P9"
         }
     }
 }
