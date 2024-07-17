@@ -21,51 +21,6 @@
 const json = `
 {
     "levels": { 
-        "top1": {
-            "name": "top 1 evel",
-            "creators": [
-                "xoolguy21"
-            ],
-            "verificator": "unhingeda82",
-            "id": "5928",
-            "veriflink": "https://www.youtube.com/embed/T6eK-2OQtew?si=xeSZJB4-hSgwDRBc",
-            "minrecord": "40%",
-            "qualifiers": {
-                "fua717": "56%",
-                "lionel": "48%"
-            }
-        },
-        "top2": {
-            "name": "seleas",
-            "creators": [
-                "unxoolguy69",
-                "Splash"
-            ],
-            "verificator": "Slopes",
-            "id": "4995",
-            "veriflink": "https://www.youtube.com/embed/LKCVKw9CzFo?si=mvyjRI7QMjBno8gK",
-            "minrecord": "70%",
-            "qualifiers": {
-                "skibidipro28x": "82%",
-                "yeh": "98%"
-            }
-        },
-        "top3": {
-            "name": "dddd",
-            "creators": [
-                "inm",
-                "duher"
-            ],
-            "verificator": "cool",
-            "id": "5837",
-            "veriflink": "https://www.youtube.com/embed/LKCVKw9CzFo?si=mvyjRI7QMjBno8gK",
-            "minrecord": "60%",
-            "qualifiers": {
-                "cat": "74%",
-                "tripin": "92%",
-                "pluhguy67": "67%"
-            }
-        }
     },
     "settings": {
         "discordlink": "https://discord.gg/BChVA6Gmft",
